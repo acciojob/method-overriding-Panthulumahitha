@@ -1,7 +1,6 @@
 package com.driver;
 
-    public class B extends A {
-    // Task 4: Override meth in class B
+public class B extends A {
     @Override
     public String meth() {
         return "Method is overridden in Extended class B";
