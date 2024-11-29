@@ -4,3 +4,4 @@ package com.driver;
     public String meth() {
         return "Invoking method from class A";
     }
+  }
